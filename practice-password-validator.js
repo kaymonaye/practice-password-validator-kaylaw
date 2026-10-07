@@ -28,4 +28,4 @@ do {
   }
 } while (!result.valid);
 
-console.log('\nPassword accepted. You have provided a valid password.');
+console.log('\\nPassword accepted. You have provided a valid password.');
